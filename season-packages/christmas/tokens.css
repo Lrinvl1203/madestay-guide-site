@@ -1,0 +1,11 @@
+:root[data-season="christmas"]{
+  --season-bg:#fbf6ee;
+  --season-card:#fff9ef;
+  --season-ink:#241b16;
+  --season-muted:#7e6a55;
+  --season-accent:#9f1d35;
+  --season-accent-2:#0f5132;
+  --season-gold:#c89b3c;
+  --season-line:#e8d9c5;
+  --season-glow:rgba(200,155,60,.28);
+}

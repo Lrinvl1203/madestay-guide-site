@@ -1,0 +1,19 @@
+{
+  "season": "christmas",
+  "concept": "Warm Christmas Concierge",
+  "heroTitle": "Merry Stay",
+  "heroSubtitle": "따뜻한 연말을 위한 스테이 가이드",
+  "heroBadge": "Holiday picks",
+  "chips": [
+    "근처 크리스마스 분위기 좋은 카페",
+    "연말 저녁 먹기 좋은 곳",
+    "추운 날 실내 데이트 코스",
+    "숙소에서 따뜻하게 쉬는 법"
+  ],
+  "cards": [
+    {"title": "연말 포토 스팟", "description": "숙소 주변에서 사진 남기기 좋은 장소를 추천해드려요."},
+    {"title": "따뜻한 카페 추천", "description": "겨울 분위기 좋은 카페와 디저트 장소를 확인해보세요."},
+    {"title": "겨울 실내 코스", "description": "추운 날에도 편하게 다녀올 수 있는 실내 코스 중심으로 안내합니다."},
+    {"title": "체크아웃 전 마무리", "description": "따뜻한 연말 여행을 마무리하기 위한 체크리스트를 확인하세요."}
+  ]
+}

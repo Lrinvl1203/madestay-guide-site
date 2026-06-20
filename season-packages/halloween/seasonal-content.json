@@ -1,0 +1,19 @@
+{
+  "season": "halloween",
+  "concept": "Midnight Halloween Stay",
+  "heroTitle": "Halloween Night Guide",
+  "heroSubtitle": "밤 산책과 포토 스팟을 위한 특별 가이드",
+  "heroBadge": "Night picks",
+  "chips": [
+    "근처 할로윈 분위기 나는 곳",
+    "밤에 산책하기 좋은 코스",
+    "아이와 갈 만한 실내 장소",
+    "비 오는 날 할로윈 코스"
+  ],
+  "cards": [
+    {"title": "할로윈 포토존", "description": "가볍게 들르기 좋은 시즌 포토 스팟을 추천해드려요."},
+    {"title": "밤 산책 코스", "description": "늦은 시간에도 부담 없는 주변 코스를 확인해보세요."},
+    {"title": "아이와 함께라면", "description": "가족 여행객을 위한 안전하고 밝은 실내 장소를 우선 추천합니다."},
+    {"title": "조용한 밤의 매너", "description": "늦은 시간 숙소에서 편안하게 쉬기 위한 기본 안내를 확인하세요."}
+  ]
+}

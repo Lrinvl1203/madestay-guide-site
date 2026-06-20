@@ -1,0 +1,11 @@
+:root[data-season="halloween"]{
+  --season-bg:#100b18;
+  --season-card:#1f162d;
+  --season-ink:#fff7ed;
+  --season-muted:#b7a8c9;
+  --season-accent:#ff7a1a;
+  --season-accent-2:#8b5cf6;
+  --season-gold:#f4d98b;
+  --season-line:#3c2b52;
+  --season-glow:rgba(255,122,26,.32);
+}
