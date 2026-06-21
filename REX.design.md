@@ -67,6 +67,18 @@ Recommended concept label:
 - tactile하지만 귀엽게 가지 않음
 
 ## Component Guidance
+### Full-surface theme application
+When testing a photo-concept skin on V2, do not limit changes to font or card colors only. A valid full-theme pass may also change:
+- page/body background gradient
+- app shell background wash
+- sticky top bar background
+- bottom navigation background and active state
+- primary/secondary button foreground + background
+- chip and mini-button surfaces
+- chat panel, suggestion chips, and FAB surfaces
+
+The structure still stays V2; only the full visual surface system changes together.
+
 ### Hero
 - 메인 사진을 크게 사용하되 너무 어둡게 덮지 않는다
 - 공간의 햇살/조명 온도를 살리는 밝은 오버레이 사용
